@@ -1,6 +1,6 @@
 {
-  "name": "PyroZu-Userbot",
-  "description": "[PyroZu-Userbot] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.  Powered by PyroZu-Userbot.",
+  "name": "shinpyro-Userbot",
+  "description": "[shinpyro-Userbot] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.  Powered by shinpyro-Userbot.",
   "stack": "heroku-22",
   "env": {
     "API_ID": {
@@ -21,7 +21,7 @@
       "required": false
     },
     "STRING_SESSION1": {
-      "description": "Dapatkan String Session Pyrogram di Grup » https://t.me/kazusupportgrp » Lalu ketik #string",
+      "description": "Dapatkan String Session Pyrogram di Grup » https://t.me/shinsupport » Lalu ketik #string",
       "required": true
     },
     "HEROKU_API_KEY": {
