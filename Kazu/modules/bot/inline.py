@@ -58,7 +58,6 @@ async def alive_function(message: Message, answers):
 <b> • ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :</b> <code>{pyver.split()[0]}</code>
 <b> • ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :</b> <code>{pyrover}</code>
 <b> • ʙᴏᴛ ᴜᴘᴛɪᴍᴇ :</b> <code>{uptime}</code>
-
 <b> — 𝙱𝙾𝚃 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : 2.0</b>
 """
     answers.append(
