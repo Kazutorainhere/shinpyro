@@ -53,7 +53,6 @@ async def alive_function(message: Message, answers):
     uptime = await get_readable_time((time.time() - StartTime))
     msg = f"""
 <b> — ʜᴇʏ, ɪ ᴀᴍ ᴀʟɪᴠᴇ.</b>
-
 <b> • ᴜsᴇʀ :</b> {message.from_user.mention}
 <b> • ᴘʟᴜɢɪɴ :</b> <code>{len(CMD_HELP)} Modules</code>
 <b> • ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :</b> <code>{pyver.split()[0]}</code>
